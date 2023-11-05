@@ -6,10 +6,10 @@ This project was created as part of an assignment to summarise law judgements. H
 ## Methodology
 There are 3 main steps which span the pipeline, namely Pre-processing, In-processing, and Post-processing. These steps will be further elaborated below.
 
-### Pre-processing 
+### i. Pre-processing 
 
-### In-processing
+### ii. In-processing
 
-### Post-processing
+### iii. Post-processing
 
 ## Results and Evaluation 
